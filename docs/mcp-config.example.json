@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "blender": {
+      "type": "stdio",
+      "command": "/opt/homebrew/bin/uvx",
+      "args": ["mcp-for-blender"],
+      "tools": ["*"]
+    }
+  }
+}
